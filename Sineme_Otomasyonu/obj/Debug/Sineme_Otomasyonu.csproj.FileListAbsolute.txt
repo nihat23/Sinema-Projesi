@@ -1,0 +1,11 @@
+D:\VB\Sineme_Otomasyonu\Sineme_Otomasyonu\bin\Debug\Sineme_Otomasyonu.exe.config
+D:\VB\Sineme_Otomasyonu\Sineme_Otomasyonu\bin\Debug\Sineme_Otomasyonu.exe
+D:\VB\Sineme_Otomasyonu\Sineme_Otomasyonu\bin\Debug\Sineme_Otomasyonu.pdb
+D:\VB\Sineme_Otomasyonu\Sineme_Otomasyonu\obj\Debug\Sineme_Otomasyonu.csprojAssemblyReference.cache
+D:\VB\Sineme_Otomasyonu\Sineme_Otomasyonu\obj\Debug\Sineme_Otomasyonu.Properties.Resources.resources
+D:\VB\Sineme_Otomasyonu\Sineme_Otomasyonu\obj\Debug\Sineme_Otomasyonu.csproj.GenerateResource.cache
+D:\VB\Sineme_Otomasyonu\Sineme_Otomasyonu\obj\Debug\Sineme_Otomasyonu.csproj.CoreCompileInputs.cache
+D:\VB\Sineme_Otomasyonu\Sineme_Otomasyonu\obj\Debug\Sineme_Otomasyonu.exe
+D:\VB\Sineme_Otomasyonu\Sineme_Otomasyonu\obj\Debug\Sineme_Otomasyonu.pdb
+D:\VB\Sineme_Otomasyonu\Sineme_Otomasyonu\obj\Debug\Sineme_Otomasyonu.Anasayfa.resources
+D:\VB\Sineme_Otomasyonu\Sineme_Otomasyonu\obj\Debug\Sineme_Otomasyonu.Film.resources
